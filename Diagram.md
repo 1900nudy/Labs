@@ -6,6 +6,9 @@ flowchart LR
      D[/Package Card\]
      E[/Ship Card at Post Office\]
 A-->B
+B-->C
+C-->D
+D-->E
      
 
 ```
