@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-     A@[/Take Picture of Card\]
+     A[/Take Picture of Card\]
 
      
 
