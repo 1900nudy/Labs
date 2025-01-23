@@ -5,7 +5,7 @@ flowchart LR
      C[/Wait for Sale\]
      D[/Package Card\]
      E[/Ship Card at Post Office\]
-
+A-->B
      
 
 ```
