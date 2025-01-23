@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart LR
      A[/Take Picture of Card\]
      B[/Post on Ebay\]
      C[/Wait for Sale\]
